@@ -16,7 +16,7 @@ But after 11 years listening to others' projects, I felt the need for change and
 
 🌱 I’m currently learning mostly Javascript (vanilla for the moment, better know your basics before adding frameworks!) and self-teaching myself in Python.
 
-💞️ I’m looking for a one-year apprenticeship from mid-june 2022 to mid-june 2023. If you're looking for a full-stack software engineer, contact me!
+💞️ I’m looking for a one-year apprenticeship from mid-june 2022 to mid-june 2023 (and hoping that this training year will lead to a fruitful long-term professionnal collaboration!). If you're looking for a full-stack software engineer with an outsider point of view on your technical and human challenges, contact me!
 
 📫 How to reach me: marie.koscianski@gmail.com
 
