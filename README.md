@@ -5,7 +5,7 @@ I used to be as an event-reporter for work councils, a very interesting job that
 But after 11 years listening to others' projects, I felt the need for change and decided to engage in professional retraining to become a software engineer with [Ada Tech School - l'école qui casse les codes !](https://adatechschool.fr/ )
 
 - Why software engineering?
-      I am at heart a problem solver and I love learning. In my previous job, I had to understand very quickly the obvious and not-so-obvious social, economic and often technologic challenges the companies I worked for faced. Imagine skimming in one week for airplanes to yoghurts to pharmaceuticals to automobiles to retail! I am fascinated by the diversity of challenges the IT faces in different companies, and I want to be at the heart of it.
+      I am at heart a problem solver and I love learning. In my previous job, I had to understand very quickly the obvious and not-so-obvious social, economic and often technological challenges the companies I worked for faced. Imagine skimming in one week for airplanes to yoghurts to pharmaceuticals to automobiles to retail! I am fascinated by the diversity of challenges the IT faces in different companies, and I want to be at the heart of it.
       
 - Why Ada Tech School?
       I didn't want to enroll in a bootcamp, code 24/7 for a few weeks until I hated code and then be left to myself to fend for my first job in tech. Instead, I chose an 'alternative' school that promotes diversity in tech, specializes in professional retraining for women, has a Montessori approach to learning, and accompanies its student with a 9-month initial training followed by a one-year apprenticeship
