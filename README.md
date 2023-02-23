@@ -14,9 +14,9 @@ But after 11 years listening to others' projects, I felt the need for change and
 
 👀 I’m interested in everything new in tech! I love learning and discovering new ways to respond to today and tomorrow's challenges.
 
-🌱 I’m currently learning mostly Javascript (vanilla for the moment, better know your basics before adding frameworks!) and self-teaching myself in Python.
+🌱 I’m currently learning JavaScript (with a hint of React), HTML and CSS (now with TailwindCSS!), Python, and I recently started a Java course.
 
-💞️ I’m looking for a one-year apprenticeship from mid-june 2022 to mid-june 2023 (and hoping that this training year will lead to a fruitful long-term professionnal collaboration!). If you're looking for a full-stack software engineer with an outsider point of view on your technical and human challenges, contact me!
+💞️ I’m looking for a one-year apprenticeship from mid-june 2023 to mid-june 2024 (and hoping that this training year will lead to a fruitful long-term professionnal collaboration!). If you're looking for a full-stack software engineer with an outsider point of view on your technical and human challenges, contact me!
 
 📫 How to reach me: marie.koscianski@gmail.com
 
