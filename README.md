@@ -2,7 +2,7 @@
  
 I used to be as an event-reporter for work councils, a very interesting job that led me to work for drastically diverse companies such as Airbus, Thales, Carrefour, Danone, Saur, Faurecia, Cofiroute (Vinci group), Saur, Honeywell, Aéroports de Paris (ADP) and so on -I attended more than 1500 professional meetings during this first professional life-, but also for public institutions such as the the Paris-Saclay University or the french Ministère de la Culture (ministry of Culture).
 
-But after 11 years listening to others' projects, I felt the need for change and decided to engage in professional retraining to become a software engineer with [Ada Tech School - l'école qui casse les codes !](https://adatechschool.fr/ )
+But after 11 years listening to others' projects, I felt the need for change and decided to engage in professional retraining to become a software engineer with [Ada Tech School - ths school that beaks codes and conventions !](https://adatechschool.fr/ )
 
 - Why software engineering?
       I am at heart a problem solver and I love learning. In my previous job, I had to understand very quickly the obvious and not-so-obvious social, economic and often technological challenges the companies I worked for faced. Imagine skimming in one week for airplanes to yoghurts to pharmaceuticals to automobiles to retail! I am fascinated by the diversity of challenges the IT faces in different companies, and I want to be at the heart of it.
