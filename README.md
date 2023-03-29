@@ -20,6 +20,8 @@ But after 11 years listening to others' projects, I felt the need for change and
 
 📫 How to reach me: marie.koscianski@gmail.com
 
+You can also follow me on [LinkedIn](https://www.linkedin.com/in/marie-koscianski-ducharlet-613090150/)!
+
 
 
 
