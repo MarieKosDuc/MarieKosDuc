@@ -14,11 +14,25 @@ But after 11 years listening to others' projects, I felt the need for change and
 
 👀 I’m interested in everything new in tech! I love learning and discovering new ways to respond to today and tomorrow's challenges.
 
-🌱 I’m currently learning JavaScript (with a hint of React), HTML and CSS (now with TailwindCSS!), Python, and I recently started a Java course.
+🌱 I’m learning JavaScript (with a hint of React and TypeScript), HTML and CSS (now with TailwindCSS!), Python, and I recently started a Java course.
 
 💞️ I’m looking for a one-year apprenticeship from mid-june 2023 to mid-june 2024 (and hoping that this training year will lead to a fruitful long-term professionnal collaboration!). If you're looking for a full-stack software engineer with an outsider point of view on your technical and human challenges, contact me!
 
 📫 How to reach me: marie.koscianski@gmail.com
+
+
+
+
+## Group projects so far:
+- [Pico 8, a retro maze game (Lua)](https://github.com/MarieKosDuc/projet-pico-8)
+- [Dataviz, a webpage displaying jokes, memes, tech news with a weather-adaptative background (JS, HTML, CSS)](https://github.com/MarieKosDuc/projet-collectif-dataviz)
+- [Dictionary Chrome extension (JS, HTML, CSS)](https://github.com/MarieKosDuc/projet_collectif_extension_navigateur-marie-silvana-tazkeya)
+- [Social Animals, a PHP/MySQL based social network for pets, design made with TailwindCSS](https://github.com/MarieKosDuc/project_collectif_reseau_social-marie-isabelle-hugo)
+- Wonder Flower, an e-commerce website: [back-end with Node.js, Express.js, MongoDB](https://github.com/MarieKosDuc/projet_collectif_vente_de_fleurs-BACKEND) and [front-end ReactJS/TailwindCS](https://github.com/MarieKosDuc/projet_collectif_vente_de_fleurs-FRONTEND) repos
+
+## Personal projects:
+- [Back to work! A personal Chrome extension to prevent idle browsing](https://github.com/MarieKosDuc/Chrome-extension-Focus)
+- Technical Definitions, my own web application to revise technical defs: [back-end REST API with Node.js and Express.js](https://github.com/MarieKosDuc/api-technical-definitions), [front-end Chrome homepage with JS, HTML and TailwindCSS](https://github.com/MarieKosDuc/extension-definitions)
 
 <!---
 MarieKosDuc/MarieKosDuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
