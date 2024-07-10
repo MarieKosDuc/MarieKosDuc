@@ -17,9 +17,16 @@ I used to be as an event-reporter for work councils, a fascinating non-routine j
 You can also follow me on [LinkedIn](https://www.linkedin.com/in/marie-koscianski-ducharlet-613090150/)!
 
 
+## My current main project:
+
+I'm currently working on [Let's Play](https://github.com/MarieKosDuc/lets-play), an ads website that aims to connect heavy metal musicians looking for a band to... heavy metal bands looking for musicians! 
+This Java/Angular app is currently deployed [on Ada Tech School's server](http://188.165.238.74:4200/home) as a demo. In this first development phase, Let's Play is my end of studies project, and will constitute the heart of my graduation dissertation in September 2024.
+After graduating, I plan to keep working on it, refactor it while I hone my professional skills, and I hope to put in on the market when I deem the result satisfactory.
 
 
-## Group projects so far:
+You can also find on my GitHub many school projects I undertook during my first year of training at Ada Tech School :
+
+## Group projects:
 - [Pico 8, a retro maze game (Lua)](https://github.com/MarieKosDuc/projet-pico-8)
 - [Dataviz, a webpage displaying jokes, memes, tech news with a weather-adaptative background (JS, HTML, CSS)](https://github.com/MarieKosDuc/projet-collectif-dataviz)
 - [Dictionary Chrome extension (JS, HTML, CSS)](https://github.com/MarieKosDuc/projet_collectif_extension_navigateur-marie-silvana-tazkeya)
