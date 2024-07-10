@@ -1,8 +1,6 @@
- Hi, I’m Marie Koscianski-Ducharlet!
+ Hi, I’m Marie Koscianski-Ducharlet, full-stack software engineer, specializing in Java/Spring Boot and Angular!
  
-I used to be as an event-reporter for work councils, a very interesting job that led me to work for drastically diverse companies such as Airbus, Thales, Carrefour, Danone, Saur, Faurecia, Cofiroute (Vinci group), Saur, Honeywell, Aéroports de Paris (ADP) and so on -I attended more than 1500 professional meetings during this first professional life-, but also for public institutions such as the the Paris-Saclay University or the french Ministère de la Culture (ministry of Culture).
-
-But after 11 years listening to others' projects, I felt the need for change and decided to engage in professional retraining to become a software engineer with [Ada Tech School - ths school that beaks codes and conventions !](https://adatechschool.fr/ )
+I used to be as an event-reporter for work councils, a fascinating non-routine job that led me to work for drastically diverse companies and organizations in aeronautics, retail, the automotive industry... I attended more than 1500 professional meetings during this first professional life. But after 11 years listening to others' projects, I felt the need for change and decided to engage in professional retraining to become a software engineer with [Ada Tech School - ths school that beaks codes and conventions !](https://adatechschool.fr/ )
 
 - Why software engineering?
       I am at heart a problem solver and I love learning. In my previous job, I had to understand very quickly the obvious and not-so-obvious social, economic and often technological challenges the companies I worked for faced. Imagine skimming in one week for airplanes to yoghurts to pharmaceuticals to automobiles to retail! I am fascinated by the diversity of challenges the IT faces in different companies, and I want to be at the heart of it.
@@ -13,10 +11,6 @@ But after 11 years listening to others' projects, I felt the need for change and
 
 
 👀 I’m interested in everything new in tech! I love learning and discovering new ways to respond to today and tomorrow's challenges.
-
-🌱 I’m learning JavaScript (with a hint of React and TypeScript), HTML and CSS (now with TailwindCSS!), Python, and I recently started a Java course.
-
-💞️ I’m looking for a one-year apprenticeship from mid-june 2023 to mid-june 2024 (and hoping that this training year will lead to a fruitful long-term professionnal collaboration!). If you're looking for a full-stack software engineer with an outsider point of view on your technical and human challenges, contact me!
 
 📫 How to reach me: marie.koscianski@gmail.com
 
